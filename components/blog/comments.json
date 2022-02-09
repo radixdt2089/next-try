@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blog_comments",
+  "info": {
+    "name": "Comments",
+    "icon": "eye-dropper"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "text"
+    }
+  }
+}

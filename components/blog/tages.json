@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blog_tages",
+  "info": {
+    "name": "Tages",
+    "icon": "ellipsis-h"
+  },
+  "options": {},
+  "attributes": {
+    "Tag": {
+      "type": "string"
+    }
+  }
+}
